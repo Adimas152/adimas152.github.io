@@ -6,6 +6,18 @@
        font-size: 2.3rem;
    }
 }
+@media screen and (max-width :1024px){
+    #about{
+        margin-bottom: 50px !important;
+    }
+    #skill{
+        min-height: 513px !important;
+    }
+    #portofolio .container{
+        padding-top: 60px !important;
+    }
+
+}
 
 @media screen and (max-width :768px){
     #hero img{
